@@ -5,6 +5,9 @@
 export JAVA_HOME = /home/myuser/java
 export PATH = $JAVA_HOME/bin:$PATH
 export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+
+ExecStart=/usr/bin/dockerd -H tcp://0.0.0.0:2375 -H unix://var/run/docker.sock
+
 ```
 
 
