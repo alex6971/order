@@ -1,4 +1,12 @@
 应用部署小程序，练习用
+#### 1.java home
+
+export JAVA_HOME = /home/myuser/java
+export PATH = $JAVA_HOME/bin:$PATH
+export CLASSPATH=.:$JAVA_HOME/lib/dt.jar:$JAVA_HOME/lib/tools.jar
+
+
+
 ```sh
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
