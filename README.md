@@ -12,6 +12,18 @@ https://blog.csdn.net/gatieme/article/details/52741221
 
 ```
 
+#  robbyrussell gnzh agnoster  bira
+
+plugins=(
+git
+bundler
+osx
+rake
+ruby
+zsh-autosuggestions
+zsh-syntax-highlighting
+)
+
 
 ```sh
 # If you come from bash you might have to change your $PATH.
