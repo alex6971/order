@@ -15,6 +15,8 @@ https://www.cnblogs.com/hztjiayou/p/11772862.html
 https://www.liangzl.com/get-article-detail-1702.html
 
 ```
+# idea 激活
+https://www.jiweichengzhu.com/article/eb340e382d1d456c84a1d190db12755c
 
 #  robbyrussell gnzh agnoster  bira
 
