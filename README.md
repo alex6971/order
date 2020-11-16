@@ -1,6 +1,11 @@
 应用部署小程序，练习用
 #### 1.java home
 
+JSON Viewer
+Evernote Web Clipper
+New Tab Startup Quotes
+Octotree 
+
 ```sh
 export JAVA_HOME = /home/myuser/java
 export PATH = $JAVA_HOME/bin:$PATH
